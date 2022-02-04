@@ -1,7 +1,7 @@
 - 👋 Hi, I’m shuabham potdar
 - 👀 I’m interested in fullstack 
-- 🌱 I’m currently learning python, fron-end languags
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning fron-end languages and Backend-tecnologies
+- 💞️ I’m looking to collaborate on Hackerank,turing,upwork!
 - 📫 How to reach me ...
 with Linkdin:https://www.linkedin.com/in/shubham-potdar-8449721a0/
 with Instagram:https://www.instagram.com/mr_.s.h.u.b.h.a.m/
